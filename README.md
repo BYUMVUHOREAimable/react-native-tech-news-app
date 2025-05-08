@@ -36,8 +36,8 @@ A modern React Native application that keeps you updated with the latest technol
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tech-news-app.git
-cd tech-news-app
+git clone https://github.com/BYUMVUHOREAimable/react-native-tech-news-app.git
+cd git clone react-native-tech-news-app
 ```
 
 2. Install dependencies:
@@ -103,6 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@BYUMVUHOREAimab](https://twitter.com/BYUMVUHOREAimab)
 
-Project Link: [https://github.com/yourusername/tech-news-app](https://github.com/yourusername/tech-news-app)
+Project Link: [https://github.com/BYUMVUHOREAimable/react-native-tech-news-app.git](https://github.com/BYUMVUHOREAimable/react-native-tech-news-app.git)
